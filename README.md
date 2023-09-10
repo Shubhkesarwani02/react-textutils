@@ -1,11 +1,13 @@
-# Textutils
+# REACT-TEXTUTILS #
 
-## Installation 
 
-git clone https://github.com/Shubhkesarwani02/react-textutils.git
-cd react-textutils
-npm i
+## *Installation* ##
 
-## Run the program
+    git clone https://github.com/Shubhkesarwani02/react-textutils.git
+    cd react-textutils
+  	npm i
+  
 
-npm run start
+## *Run the Program* ##
+	
+	node app.js
